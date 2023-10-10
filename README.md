@@ -11,11 +11,35 @@ Here the sample preview of error messages occuring;
 
 ![React App and 8 more pages - Personal - Microsoft​ Edge 10_9_2023 11_47_18 PM](https://github.com/Muhammed-shamal/react-hook-form_Validation/assets/108850156/3802d39a-a020-41e4-8345-1244ba2ba8c8)
 
-#key Features;
+# key Features;
 
-Validating each of Input fields
-Authentication mades using react-hook-form 
-generates the errors when error occuring means values not equal (!==) to correct options
-Each time Update, (onchange, onclick, onblur)
-Automatic status (errors) change when error occures
-Multiple of error messages available with single lines;
+* Validating each of Input fields
+* Authentication mades using react-hook-form 
+* generates the errors when error occuring means values not equal (!==) to correct options
+* Each time Update, (onchange, onclick, onblur)
+* Automatic status (errors) change when error occures
+* Multiple of error messages available with single lines;
+
+# Technologies used;
+
+This project was created using the following technologies.
+### Design 
+* React
+* Bootstrap
+* css
+* html
+
+### Validation and main libraries 
+
+* React-hoo-form
+* JavaScript
+* React-router-dom
+* React-states
+
+## npm to download
+
+*  **npm install react-router-dom** for react-router-dom
+*  **npm install react-hook-form** for react-hook-form
+
+# Author:
+* **Email**: [@peevee](muhammedshamalpv@gmail.com)
